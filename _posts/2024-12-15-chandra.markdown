@@ -1,0 +1,24 @@
+---
+layout: book
+title: Anime Insights Explorer
+date: 2024-12-15 15:47:21 -0500
+categories: entertainment
+img: "/portfolio_site_436/assets/thumbnails/chandra.png"
+---
+
+<b>Author: Livia Chandra</b>
+
+<b><a href="https://clv07.shinyapps.io/hw4_lvc/">Click here to visit the interactive app.</a></b>
+
+The Anime Insights Explorer is an interactive web application built using R
+Shiny, designed to help users explore trends, ratings, genres, and production
+studios within the anime industry. The app enables users to gain insights into
+how anime has evolved over the years, understand genre popularity, analyze
+production quality, and identify relationships between key attributes using
+Principal Component Analysis (PCA). Its intuitive interface and interactive
+features make it a powerful tool for anime enthusiasts, researchers, and
+producers to explore and analyze data from the anime world.
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

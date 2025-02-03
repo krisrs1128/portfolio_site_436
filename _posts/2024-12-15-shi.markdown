@@ -1,0 +1,17 @@
+---
+layout: book
+title: Topics of Book Reviews
+date: 2024-12-15 15:47:21 -0500
+categories: entertainment
+img: "/portfolio_site_436/assets/thumbnails/shi.png"
+---
+
+<b>Author: Willow Shi</b>
+
+<b><a href="https://wsssss.shinyapps.io/topics_of_bookreview/">Click here to visit the interactive app.</a></b>
+
+This project is designed to help explore the topics of book reviews shared by readers :)
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

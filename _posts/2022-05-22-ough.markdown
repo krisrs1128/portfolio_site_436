@@ -1,0 +1,20 @@
+---
+layout: book
+title: Wisconsin Library Budgets
+date: 2022-05-22 15:47:21 -0500
+categories: education
+img: "/portfolio_site_436/assets/thumbnails/ough.jpg"
+---
+
+<b>Author: Celina Ough</b>
+
+<b><a href="https://f4ocwb-celinao.shinyapps.io/portfolio4_libraryincome/">Click here to visit the interactive app.</a></b>
+
+This interface aims to visualize where libraries in Wisconsin get and spend
+their money. Within it you can select and compare different counties of
+Wisconsin to see how their sources of incomes differ and where their major
+expenses are.
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

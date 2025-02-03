@@ -1,0 +1,29 @@
+---
+layout: book
+title: Defensive Space - NFL RB Run Analysis
+date: 2024-12-15 15:47:21 -0500
+categories: sports
+img: "/portfolio_site_436/assets/thumbnails/lakeetal.jpg"
+---
+
+<b>Author: Max Lake, Alexander Scheibe, Yoel Nasi Kazado, Urmi Mehta, Joseph Ho, Miguel Marcial</b>
+
+<b><a href="https://maxlaker13.shinyapps.io/nflDefense/">Click here to visit the interactive app.</a></b>
+
+
+In this project, we developed a tool to analyze and visualize the performance of
+NFL defenses against running back plays.  The motivation behind this project
+stems from the client’s need to evaluate defensive player efficiency and game
+strategies.  By focusing on defensive metrics, such as tackle success rate and
+Expected Points Added (EPA), the project aims to provide NFL teams with
+actionable insights for improving defensive tactics.  
+
+Our goal was to create an interactive and user-friendly platform to visualize
+player movements, tackle performance, and defensive efficiency.  We leveraged
+the “NFL Big Data Bowl 2024” dataset from Kaggle and designed features such as
+play-level visualizations, team and player statistics, and in-depth analyses of
+key defensive metrics.  
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
