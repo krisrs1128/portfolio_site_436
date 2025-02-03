@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/portfolio_site_436/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/portfolio_site_436/" rel="alternate" type="text/html" /><updated>2025-02-03T14:25:10-06:00</updated><id>http://localhost:4000/portfolio_site_436/feed.xml</id><title type="html">Visualization Portfolio - STAT 436</title><subtitle>Student visualizations from the Statistical Data Visualization course at UW Madison.</subtitle><entry><title type="html">Find Your College Match</title><link href="http://localhost:4000/portfolio_site_436/education/2024/12/15/sidhuetal.html" rel="alternate" type="text/html" title="Find Your College Match" /><published>2024-12-15T14:47:21-06:00</published><updated>2024-12-15T14:47:21-06:00</updated><id>http://localhost:4000/portfolio_site_436/education/2024/12/15/sidhuetal</id><content type="html" xml:base="http://localhost:4000/portfolio_site_436/education/2024/12/15/sidhuetal.html"><![CDATA[<p><b>Author: Harmohini Sidhu, Mihika Vuppula, Sanvi Kumar, Tanvi Kulkarni, Tirzah Asir, Willow Shi</b></p>
+
+<p><b><a href="https://wsssss.shinyapps.io/university_selection/">Click here to visit the interactive app.</a></b></p>
+
+<p>The team created this interactive app to assist users in exploring and analyzing
+educational institutions, providing a streamlined experience through a
+user-friendly multi-tab layout. Each tab is developed to guide users through
+different stages of the decision-making process:</p>
+
+<div style="padding-left: 10px;">
+<b>Tab 1:</b> Broadly explore institutions or locate them based on commuting accommodations.<br />
+<b>Tab 2:</b> Screen and filter candidate institutions using key criteria.<br />
+<b>Tab 3:</b> Dive deeper into selected institutions for detailed analysis and insights.
+</div>]]></content><author><name></name></author><category term="education" /><summary type="html"><![CDATA[Author: Harmohini Sidhu, Mihika Vuppula, Sanvi Kumar, Tanvi Kulkarni, Tirzah Asir, Willow Shi]]></summary></entry><entry><title type="html">Anime Insights Explorer</title><link href="http://localhost:4000/portfolio_site_436/entertainment/2024/12/15/chandra.html" rel="alternate" type="text/html" title="Anime Insights Explorer" /><published>2024-12-15T14:47:21-06:00</published><updated>2024-12-15T14:47:21-06:00</updated><id>http://localhost:4000/portfolio_site_436/entertainment/2024/12/15/chandra</id><content type="html" xml:base="http://localhost:4000/portfolio_site_436/entertainment/2024/12/15/chandra.html"><![CDATA[<p><b>Author: Livia Chandra</b></p>
+
+<p><b><a href="https://clv07.shinyapps.io/hw4_lvc/">Click here to visit the interactive app.</a></b></p>
+
+<p>The Anime Insights Explorer is an interactive web application built using R
+Shiny, designed to help users explore trends, ratings, genres, and production
+studios within the anime industry. The app enables users to gain insights into
+how anime has evolved over the years, understand genre popularity, analyze
+production quality, and identify relationships between key attributes using
+Principal Component Analysis (PCA). Its intuitive interface and interactive
+features make it a powerful tool for anime enthusiasts, researchers, and
+producers to explore and analyze data from the anime world.</p>]]></content><author><name></name></author><category term="entertainment" /><summary type="html"><![CDATA[Author: Livia Chandra]]></summary></entry><entry><title type="html">Student Exam Performance Analysis</title><link href="http://localhost:4000/portfolio_site_436/education/2024/12/15/cui.html" rel="alternate" type="text/html" title="Student Exam Performance Analysis" /><published>2024-12-15T14:47:21-06:00</published><updated>2024-12-15T14:47:21-06:00</updated><id>http://localhost:4000/portfolio_site_436/education/2024/12/15/cui</id><content type="html" xml:base="http://localhost:4000/portfolio_site_436/education/2024/12/15/cui.html"><![CDATA[<p><b>Author: Ruikai Cui</b></p>
+
+<p><b><a href="https://niuniuzi.shinyapps.io/Final_Project/">Click here to visit the interactive app.</a></b></p>
+
+<p>The primary goals of this project are to design a series of interactive and
+insightful visualizations that explore, compare, and predict key factors
+affecting student outcomes and the project comprises four interactive pages,
+Factors Affecting Performance, Demographic Comparisons, Student Clustering and
+Score Prediction.</p>]]></content><author><name></name></author><category term="education" /><summary type="html"><![CDATA[Author: Ruikai Cui]]></summary></entry><entry><title type="html">Student Performance Analysis App</title><link href="http://localhost:4000/portfolio_site_436/education/2024/12/15/fuenzalida.html" rel="alternate" type="text/html" title="Student Performance Analysis App" /><published>2024-12-15T14:47:21-06:00</published><updated>2024-12-15T14:47:21-06:00</updated><id>http://localhost:4000/portfolio_site_436/education/2024/12/15/fuenzalida</id><content type="html" xml:base="http://localhost:4000/portfolio_site_436/education/2024/12/15/fuenzalida.html"><![CDATA[<p><b>Author: Karen Fuenzalida</b></p>
+
+<p><b><a href="https://karen-fuenzalida-araya.shinyapps.io/application//">Click here to visit the interactive app.</a></b></p>
+
+<p>The app allows users to identify different variables that are important in
+predicting the final exam scores of students, as well as provides an interactive
+interface where users can adjust the variables and get a predicted exam score.</p>]]></content><author><name></name></author><category term="education" /><summary type="html"><![CDATA[Author: Karen Fuenzalida]]></summary></entry><entry><title type="html">Which Dog Breed Should I Get?</title><link href="http://localhost:4000/portfolio_site_436/lifestyle/2024/12/15/fuenzalida2.html" rel="alternate" type="text/html" title="Which Dog Breed Should I Get?" /><published>2024-12-15T14:47:21-06:00</published><updated>2024-12-15T14:47:21-06:00</updated><id>http://localhost:4000/portfolio_site_436/lifestyle/2024/12/15/fuenzalida2</id><content type="html" xml:base="http://localhost:4000/portfolio_site_436/lifestyle/2024/12/15/fuenzalida2.html"><![CDATA[<p><b>Author: Karen Fuenzalida</b></p>
+
+<p><b><a href="">Read the portfolio by clicking here.</a></b></p>
+
+<p>Looking for the perfect furry friend? This visualization (inspired by
+#30DayChartChallenge) has you covered!  It breaks down the top 20 dog breeds of
+2020, showing shedding levels, grooming needs, and behavioral traits so you know
+what to expect. Plus, you’ll see how their popularity has changed over time.
+Simple, clear, and easy to read—everything you need to find the dog that fits
+your lifestyle.</p>]]></content><author><name></name></author><category term="lifestyle" /><summary type="html"><![CDATA[Author: Karen Fuenzalida]]></summary></entry><entry><title type="html">Defensive Space - NFL RB Run Analysis</title><link href="http://localhost:4000/portfolio_site_436/sports/2024/12/15/lakeetal.html" rel="alternate" type="text/html" title="Defensive Space - NFL RB Run Analysis" /><published>2024-12-15T14:47:21-06:00</published><updated>2024-12-15T14:47:21-06:00</updated><id>http://localhost:4000/portfolio_site_436/sports/2024/12/15/lakeetal</id><content type="html" xml:base="http://localhost:4000/portfolio_site_436/sports/2024/12/15/lakeetal.html"><![CDATA[<p><b>Author: Max Lake, Alexander Scheibe, Yoel Nasi Kazado, Urmi Mehta, Joseph Ho, Miguel Marcial</b></p>
+
+<p><b><a href="https://maxlaker13.shinyapps.io/nflDefense/">Click here to visit the interactive app.</a></b></p>
+
+<p>In this project, we developed a tool to analyze and visualize the performance of
+NFL defenses against running back plays.  The motivation behind this project
+stems from the client’s need to evaluate defensive player efficiency and game
+strategies.  By focusing on defensive metrics, such as tackle success rate and
+Expected Points Added (EPA), the project aims to provide NFL teams with
+actionable insights for improving defensive tactics.</p>
+
+<p>Our goal was to create an interactive and user-friendly platform to visualize
+player movements, tackle performance, and defensive efficiency.  We leveraged
+the “NFL Big Data Bowl 2024” dataset from Kaggle and designed features such as
+play-level visualizations, team and player statistics, and in-depth analyses of
+key defensive metrics.</p>]]></content><author><name></name></author><category term="sports" /><summary type="html"><![CDATA[Author: Max Lake, Alexander Scheibe, Yoel Nasi Kazado, Urmi Mehta, Joseph Ho, Miguel Marcial]]></summary></entry><entry><title type="html">Topics of Book Reviews</title><link href="http://localhost:4000/portfolio_site_436/entertainment/2024/12/15/shi.html" rel="alternate" type="text/html" title="Topics of Book Reviews" /><published>2024-12-15T14:47:21-06:00</published><updated>2024-12-15T14:47:21-06:00</updated><id>http://localhost:4000/portfolio_site_436/entertainment/2024/12/15/shi</id><content type="html" xml:base="http://localhost:4000/portfolio_site_436/entertainment/2024/12/15/shi.html"><![CDATA[<p><b>Author: Willow Shi</b></p>
+
+<p><b><a href="https://wsssss.shinyapps.io/topics_of_bookreview/">Click here to visit the interactive app.</a></b></p>
+
+<p>This project is designed to help explore the topics of book reviews shared by readers :)</p>]]></content><author><name></name></author><category term="entertainment" /><summary type="html"><![CDATA[Author: Willow Shi]]></summary></entry><entry><title type="html">Close Contact Index during the COVID-19 Pandemic</title><link href="http://localhost:4000/portfolio_site_436/health/2022/05/22/ye.html" rel="alternate" type="text/html" title="Close Contact Index during the COVID-19 Pandemic" /><published>2022-05-22T15:47:21-05:00</published><updated>2022-05-22T15:47:21-05:00</updated><id>http://localhost:4000/portfolio_site_436/health/2022/05/22/ye</id><content type="html" xml:base="http://localhost:4000/portfolio_site_436/health/2022/05/22/ye.html"><![CDATA[<p><b>Author: Wen Ye</b></p>
+
+<p><b><a href="/portfolio_site_436/assets/pdfs/ye.html">Read the portfolio by clicking here.</a></b></p>
+
+<p>The visualizations aim to explore how the interaction between
+people changed throughout the  year of 2021 in terms of their social distance in
+the United States. The interaction between  people is quantified by the Close
+Contact Index(CCI) which measures if two or more devices  come within 50 feet of
+each other within a five minute time period.</p>]]></content><author><name></name></author><category term="health" /><summary type="html"><![CDATA[Author: Wen Ye]]></summary></entry><entry><title type="html">Video Game Sales Data</title><link href="http://localhost:4000/portfolio_site_436/entertainment/2022/05/22/young.html" rel="alternate" type="text/html" title="Video Game Sales Data" /><published>2022-05-22T15:47:21-05:00</published><updated>2022-05-22T15:47:21-05:00</updated><id>http://localhost:4000/portfolio_site_436/entertainment/2022/05/22/young</id><content type="html" xml:base="http://localhost:4000/portfolio_site_436/entertainment/2022/05/22/young.html"><![CDATA[<p><b>Author: David Young</b></p>
+
+<p><b><a href="https://dfyoung2.shinyapps.io/gaming/">Click here to visit the interactive app.</a></b></p>
+
+<p>My goal with this app was to determine how much user and critic
+scores differed and look at which publishers/ developers create high quality
+games from a users’ (gamers’) perspective. I was also interested in which
+developers worked with any given publisher and how many copies of their game
+they were able to sell and quantify how successful an individual game was.</p>]]></content><author><name></name></author><category term="entertainment" /><summary type="html"><![CDATA[Author: David Young]]></summary></entry><entry><title type="html">Artistic Relationships</title><link href="http://localhost:4000/portfolio_site_436/arts/2022/05/22/guan.html" rel="alternate" type="text/html" title="Artistic Relationships" /><published>2022-05-22T15:47:21-05:00</published><updated>2022-05-22T15:47:21-05:00</updated><id>http://localhost:4000/portfolio_site_436/arts/2022/05/22/guan</id><content type="html" xml:base="http://localhost:4000/portfolio_site_436/arts/2022/05/22/guan.html"><![CDATA[<p><b>Author: Yijin Guan</b></p>
+
+<p><b><a href="/portfolio_site_436/assets/pdfs/guan.pdf">Read the portfolio by clicking here.</a></b></p>
+
+<p>This dataset is a collection of artworks of the 50 most influential artists of
+all time. The two visualizations in the form of node-link diagrams are to
+compare the genres with the artists and their nationalities.</p>]]></content><author><name></name></author><category term="arts" /><summary type="html"><![CDATA[Author: Yijin Guan]]></summary></entry></feed>
